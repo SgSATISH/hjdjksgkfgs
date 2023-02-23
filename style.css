@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./flatlay-iron-skillet-with-meat-and-other-food.jpg);
+    width: 100%;
+    height: 2200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.navbar ul{
+    float: right;
+    font-size: 80px;
+    color: #fff;
+    margin-right: 1500px;
+}
+.navbar ul li{
+    float: left;
+    padding: 80px;
+    list-style: none;
+}
+.navbar h1{
+    font-size: 350px;
+    font-weight: bolder;
+    position: absolute;
+    left: 2500px;
+    top: 500px;
+    color: #fff;
+    font-style: 'Roboto' sans-serif;
+}
+p{
+    font-size: 150px;
+    position: absolute;
+    top: 1000px;
+    left: 2000px;
+    color: rgb(233, 233, 233);
+}
+p1{
+margin-left: 450px;
+color: rgb(219, 215, 215);
+font-style:'Roboto' sans-serif ;
+}
+.logo{
+    
+    position: absolute;
+    left: 3200px;
+    margin-top: 180px;
+    
+}
+h1{
+    position: absolute;
+    left: 2000px;
+    font-size: 150px;
+    font-weight: lighter;
+    margin-top: 180px;
+}
+p2{
+    font-size: 200px;
+    position: absolute;
+    left: 300px;
+    top: -30px;
+
+}
+.main p3{
+    font-size: 100px;
+    position: absolute;
+    top: 2700px;
+    left: 1200px;
+    font-weight: inherit;
+    color: rgb(89, 87, 87);
+    
+
+}
+.box1 h1{
+    border: 1px solid rgb(216, 212, 212);
+    width: 1350px;
+    height: 200px;
+    position: relative;
+    top: 700px;
+    
+    
+  
+    left: 800px;
+    font-size: 120px;
+    
+    
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: lighter;
+    color: rgb(105, 99, 99);
+    box-shadow: 10px 20px 30px rgb(226, 215, 215);
+    
+    
+    
+
+
+}
+.box2 h1{
+    border: 1px solid rgb(218, 215, 215);
+    width: 1350px;
+    height: 200px;
+    position: absolute;
+    top: 2910px;
+    
+    
+  
+    left: 2500px;
+    font-size: 120px;
+    
+    
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: lighter;
+    color: rgb(105, 99, 99);
+    box-shadow: 10px 20px 30px rgb(226, 215, 215);
+    
+
+
+}
+.box3 h1{
+    border: 1px solid rgb(209, 205, 205);
+    width: 1350px;
+    height: 200px;
+    position: absolute;
+    top: 2910px;
+    
+    
+  
+    left: 4200px;
+    font-size: 120px;
+    
+    
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: lighter;
+    color: rgb(105, 99, 99);
+    box-shadow: 10px 20px 30px rgb(226, 215, 215);
+
+}
+.box4 h1{
+    border: 1px solid rgb(202, 200, 200);
+    width: 1350px;
+    height: 200px;
+    position: absolute;
+    top: 3510px;
+    
+    
+  
+    left: 800px;
+    font-size: 120px;
+   
+    
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: lighter;
+    color: rgb(105, 99, 99);
+    box-shadow: 10px 20px 30px rgb(226, 215, 215);
+    
+
+}
+.box5 h1{
+    
+        border: 1px solid rgb(196, 192, 192);
+        width: 1350px;
+        height: 200px;
+        position: absolute;
+        top: 3510px;
+        
+        
+      
+        left: 2500px;
+        font-size: 120px;
+        
+        
+        border-radius: 30px;
+        text-align: center;
+        padding-top: 30px;
+        font-weight: lighter;
+        color: rgb(105, 99, 99);
+        box-shadow: 10px 20px 30px rgb(226, 215, 215);
+        
+}
+.box6 h1{
+    border: 1px solid rgb(206, 203, 203);
+    width: 1350px;
+    height: 200px;
+    position: absolute;
+    top: 3510px;
+   
+    
+    
+  
+    left: 4200px;
+    font-size: 120px;
+    
+    
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: lighter;
+    color: rgb(105, 99, 99);
+    box-shadow: 10px 20px 30px rgb(225, 216, 216);
+    
+}
+.para p4{
+    position: absolute;
+    left: 800px;
+    top: 4300px;
+    font-size: 130px;
+    color: rgb(104, 99, 99);
+}
+
+
+
+    
+p6{
+    position: absolute;
+    left: 10000px;
+    top: 6000px;
+}
